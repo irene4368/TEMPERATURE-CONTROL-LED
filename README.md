@@ -9,7 +9,8 @@ The LED turns on/off based on the temperature threshold set in the code.
 - LED
 - Resistor (220Ω)
 - Breadboard & Jumper wires
-##Skills Learned
+  
+## Skills Learned
 - Reading sensor data
 - Basic conditional logic
 - Controlling LEDs
